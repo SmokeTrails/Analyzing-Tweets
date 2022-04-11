@@ -1,4 +1,4 @@
-# Analyzing Tweets!
+# NLP with Tweets!
 
 The main question that me and my group were interested in answering was if you could use the content of
 a tweet i.e. what words and phrases are used to predict the number of followers a tweeter has. We
